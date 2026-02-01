@@ -179,7 +179,7 @@ Analyze salary data to uncover pay trends across roles, locations, and experienc
 `Communication Skills` · `Analytical Thinking`
 
 
-📎 *Cetificate* [https://drive.google.com/file/d/1TD8RyX5J5a3z2wICp9zRS7vFuq9JSFRC/view?usp=drive_link]
+📎 *Cetificate* [https://drive.google.com/file/d/1YSi8QueCarPznGkF_QLonqRvm5b5IYsO/view?usp=drive_link]
 
 ---
 
