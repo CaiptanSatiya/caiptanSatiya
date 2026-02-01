@@ -97,21 +97,38 @@ Develop an interactive Power BI dashboard to track sales, revenue, and profit in
 - Excel / CSV data handling  
 🔗 *Repository:* [https://github.com/CaiptanSatiya/Sales-Performance-Profit-Analysis-Dashboard]
 
-### 📌 Project 2: Customer Segmentation Analysis
+---
 
-**Objective:**
-Segment customers to support targeted marketing and retention strategies.
+# Project 2: Vendor Sales & Profitability Analysis
 
-**Key Highlights:**
+## Objective
+Analyze vendor sales, inventory, and profit data to identify top and low-performing vendors, calculate KPIs, and provide actionable insights through Python analysis and a Power BI dashboard.
 
-* Performed **EDA** to understand customer behavior
-* Applied **RFM Analysis** and clustering logic
-* Delivered actionable insights for marketing teams
+## Key Highlights
+- Calculated **unsold inventory value, total capital, and vendor purchase contribution**  
+- Identified **top-performing and low-performing vendors** using sales quantiles  
+- Applied **statistical analysis** including 95% confidence intervals and t-tests to validate profit margin differences  
+- Built an **interactive Power BI dashboard** visualizing total sales, gross profit, profit margin, unsold capital, top vendors, and slow-moving inventory  
+- Generated **actionable business recommendations** for pricing, marketing, inventory, and vendor management  
+- Consolidated insights to **enhance operational efficiency and profitability**
 
-**Skills Applied:**
-`Python` · `EDA` · `Data Visualization` · `Analytical Thinking`
+## Skills Applied
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Power BI` · `DAX` · `Data Cleaning` · `Exploratory Data Analysis` · `Statistical Analysis` · `Business Insights`
 
-🔗 *Repository:* [Link Here]
+## Outcome / Impact
+- Provided **data-driven insights** into vendor performance and profit margins  
+- Highlighted **low-selling high-margin brands** for promotional and pricing strategies  
+- Enabled **decision-making** for inventory optimization and vendor management  
+- Confirmed statistically significant differences in profit margins, guiding **pricing and marketing strategy**
+
+## Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Power BI Desktop  
+- DAX (Data Analysis Expressions)  
+- SQL / CSV data handling  
+
+🔗 *Repository:* [https://github.com/CaiptanSatiya/Vendor-Sales-Profitability-Analysis/tree/main]
+
 
 ---
 
