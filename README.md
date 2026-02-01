@@ -66,28 +66,36 @@ I enjoy working on **real-world datasets**, participating in **virtual internshi
 
 ---
 
-## 🚀 Featured Data Analysis Projects
+## 📜 Featured Data Analysis Projects
 
-> These projects are **resume-ready** and showcase end-to-end analytical workflows.
 
-### 📌 Project 1: Sales Performance & Trend Analysis
+#  Project 1: Sales Performance & Profit Analysis Dashboard
 
-**Objective:**
-Analyze sales data to identify revenue trends, top-performing products, and seasonal patterns.
+## Objective
+Develop an interactive Power BI dashboard to track sales, revenue, and profit insights, enabling data-driven business decisions for stakeholders.
 
-**Key Highlights:**
+## Key Highlights
+- Built **multi-currency normalized sales metrics** and resolved data type issues for accurate reporting  
+- Created **dynamic profit margin and contribution percentage measures** using DAX  
+- Designed dashboards to visualize **top-performing regions, markets, and customers**  
+- Analyzed **customer-level profit contributions** to identify high-value clients and optimize discounts  
+- Implemented **conditional formatting and dynamic titles** for better stakeholder readability  
+- Consolidated **stakeholder feedback** to refine KPIs and actionable insights  
 
-* Cleaned and processed **10,000+ rows** of raw sales data
-* Identified revenue-driving regions and products
-* Built an **interactive Power BI dashboard** for stakeholders
+## Skills Applied
+`Power BI` · `DAX` · `Data Visualization` · `Revenue Analysis` · `Profit Margin Analysis` · `Business Insights`
 
-**Skills Applied:**
-`Python` · `Pandas` · `SQL` · `Power BI` · `Data Cleaning` · `Business Insights`
+## Outcome / Impact
+- Enabled **data-driven decision making** for sales and marketing teams  
+- Identified **high-value customers** and profitable regions for targeted strategies  
+- Provided insights into **profit margin contributions** across products and markets  
 
-🔗 *Repository:* [Link Here]
-📊 *Dashboard Preview:* [Screenshot / Link]
-
----
+## Tools & Technologies
+- Power BI Desktop  
+- DAX (Data Analysis Expressions)  
+- SQL (for data extraction & transformation)  
+- Excel / CSV data handling  
+🔗 *Repository:* [https://github.com/CaiptanSatiya/Sales-Performance-Profit-Analysis-Dashboard]
 
 ### 📌 Project 2: Customer Segmentation Analysis
 
