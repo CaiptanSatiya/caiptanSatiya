@@ -132,10 +132,10 @@ Analyze vendor sales, inventory, and profit data to identify top and low-perform
 
 ---
 
-# 📌 Project 3: HR / Salary Data Analysis
+# 📌 Project 3: Attendance Data Analysis
 
 **Objective:**
-Analyze salary data to uncover compensation trends across roles, locations, and experience levels, enabling data-driven HR and workforce decisions.
+Analyze employee attendance data to identify presence patterns, absenteeism trends, and workforce behavior to support HR decision-making.
 
 **Key Highlights:**
 
@@ -146,7 +146,7 @@ Analyze salary data to uncover compensation trends across roles, locations, and 
 **Skills Applied:**
 `Python` · `Excel` · `Data Visualization` · `Statistical Thinking`. `HR Analytics`
 
-🔗 *Repository:* [https://github.com/CaiptanSatiya/HR-Salary-Data-Analysis]
+🔗 *Repository:*[https://github.com/CaiptanSatiya/Employee-Attendance-Workforce-Analytics]
 
 ---
 
