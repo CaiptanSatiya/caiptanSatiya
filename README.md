@@ -165,101 +165,6 @@ This project focuses on analyzing HR attendance data and building an interactive
 
 ---
 
-# Project 4: OYO Business Performance Analysis
-
-## Objective:
-This project focuses on analyzing OYO hotel performance data to evaluate revenue efficiency, occupancy trends, and pricing performance through an interactive Power BI dashboard. The solution is designed to support business and stakeholder decision-making using a structured BI approach.
-
-## Key Highlights:
-
-* Transformed and analyzed hospitality datasets using Power BI
-* Evaluated revenue, occupancy, and pricing efficiency trends
-* Created DAX measures for KPI calculations and comparisons
-* Designed interactive dashboards with city-wise and property-level drilldowns
-* Enabled stakeholder reviews through insight-driven visualizations
-
-## Skills Applied:
-`Power BI` · `Power Query` · `DAX` · `Data Visualization` · `Business Analytics` · `Hospitality Analytics`
-
-## Outcome / Impact
-
-* Provided a centralized performance view for hospitality stakeholders
-* Identified high-performing cities and properties driving revenue
-* Highlighted occupancy and pricing gaps impacting RevPAR
-* Supported data-driven decisions for pricing, promotions, and capacity planning
-
-## Tools & Technologies
-
-* Power BI Desktop
-* DAX (Data Analysis Expressions)
-* Power Query (data cleaning & transformation)
-* Excel / CSV data handling
-
-🔗 Repository: [https://github.com/CaiptanSatiya/OYO-Hotel-Booking-Revenue-Analysis]
-
----
-
-# Project 5: Customer Behavior Analysis Dashboard
-
-## Objective:
-This project focuses on analyzing customer purchasing behavior and preferences to uncover insights related to product performance, customer demographics, and subscription adoption. An interactive dashboard was developed to support data-driven decisions across marketing, sales, and customer retention strategies.
-
-## 🧭 Analysis Highlights
-🔹 Product Category Performance
-
-* Clothing emerges as the highest-performing category in both revenue and sales volume
-* Accessories show moderate performance with potential for cross-selling
-* Footwear and Outerwear contribute lower revenue, indicating scope for targeted promotions
-
-🔹 Customer Demographics & Age Groups
-
-* Young Adults represent the most valuable segment in terms of revenue and transaction volume
-* Middle-aged customers display consistent purchasing behavior
-* Senior and adult segments contribute steadily, supporting diversified demand
-
-🔹 Subscription & Retention Insights
-
-* Majority of customers are non-subscribers, highlighting a gap in subscription adoption
-* Subscription-based incentives could improve repeat purchases and long-term customer value
-
-🔹 Behavioral & Operational Filters
-
-* Dashboard enables analysis by:
-* Gender
-* Subscription status
-* Product category
-* Shipping type
-* Supports granular customer segmentation and targeted analysis
-
-## 🧠 Business Value Delivered
-
-* Enabled identification of high-value customer segments
-* Provided insights to optimize product mix and inventory planning
-* Highlighted opportunities to improve subscription conversion and retention
-* Delivered an intuitive dashboard for ongoing business monitoring
-
-## 🛠️ Tools & Skills Used
-
-`Power BI` • `Data Visualization` • `Business Analytics` • `Customer Segmentation` • `Dashboard Design` • `Statistical Thinking`
-
-## Outcome / Impact
-
-* Identified high-value customer segments for targeted marketing strategies
-* Highlighted opportunities to improve subscription adoption and customer retention
-* Supported product mix optimization and demand-based inventory planning
-* Enabled continuous monitoring of customer behavior and purchasing trends
-
-## Tools & Technologies
-
-* Power BI Desktop
-* DAX (Data Analysis Expressions
-* Excel / CSV data handling
-* Data Visualization & Dashboard Design
-
-🔗 Repository: [https://github.com/CaiptanSatiya/Customer-Shopping-Behavior-Analysis]
-
----
-
 ## 🏢 Virtual Experience & Extracurricular Activities
 
 ### 🟪 Quantium – Data Analytics Virtual Experience (Forage)
@@ -271,7 +176,7 @@ This project focuses on analyzing customer purchasing behavior and preferences t
 
 **Role:** Data Analytics Virtual Experience  
 **Employment Type:** Virtual Experience  
-**Duration:** Month–Year  
+**Duration:** February 2026  
 
 **Work Done:**
 
@@ -298,7 +203,7 @@ This project focuses on analyzing customer purchasing behavior and preferences t
 
 **Role:** Data Visualization Virtual Experience  
 **Employment Type:** Virtual Experience  
-**Duration:** Month–Year  
+**Duration:** January 2026  
 
 **Work Done:**
 
