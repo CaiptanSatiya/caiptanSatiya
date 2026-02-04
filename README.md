@@ -208,6 +208,7 @@ Analyze employee attendance data to identify presence patterns, absenteeism tren
 📎 *Cetificate* [https://drive.google.com/file/d/1YSi8QueCarPznGkF_QLonqRvm5b5IYsO/view?usp=drive_link]
 
 ---
+
 ### 🟦 Tata – GenAI Powered Data Analytics Job Simulation (Forage)
 <p> <img src="https://img.shields.io/badge/Tata-GenAI%20Data%20Analytics-005BAC?style=flat-square" /> 
   <img src="https://img.shields.io/badge/Forage-Virtual%20Experience-0A66C2?style=flat-square" /> 
@@ -215,7 +216,7 @@ Analyze employee attendance data to identify presence patterns, absenteeism tren
 
 **Role:** GenAI Data Analytics Virtual Experience
 **Employment Type:** Virtual Experience
-**Duration:** Month–Year 
+**Duration:** February 2026
 
 **Work Done:**
 
