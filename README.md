@@ -132,7 +132,7 @@ Analyze vendor sales, inventory, and profit data to identify top and low-perform
 
 ---
 
-# 📌 Project 3: Attendance Data Analysis
+# Project 3: Attendance Data Analysis
 
 **Objective:**
 This project focuses on analyzing HR attendance data and building an interactive Power BI dashboard aligned with real business and stakeholder requirements. The workflow follows an end-to-end BI lifecycle, from requirement gathering to final stakeholder review.
@@ -166,7 +166,7 @@ Total Present Days
 
 ---
 
-# 📌 Project 4: OYO Business Performance Analysis
+# Project 4: OYO Business Performance Analysis
 
 ## Objective:
 This project focuses on analyzing OYO hotel performance data to evaluate revenue efficiency, occupancy trends, and pricing performance through an interactive Power BI dashboard. The solution is designed to support business and stakeholder decision-making using a structured BI approach.
@@ -200,7 +200,7 @@ The dataset includes key operational and revenue metrics captured across multipl
 
 ---
 
-# 📌 Project:4 Customer Behavior Analysis Dashboard
+# Project 5: Customer Behavior Analysis Dashboard
 
 ## Objective:
 This project focuses on analyzing customer purchasing behavior and preferences to uncover insights related to product performance, customer demographics, and subscription adoption. An interactive dashboard was developed to support data-driven decisions across marketing, sales, and customer retention strategies.
@@ -251,6 +251,7 @@ This project focuses on analyzing customer purchasing behavior and preferences t
 ## 🛠️ Tools & Skills Used
 
 `Power BI` • `Data Visualization` • `Business Analytics` • `Customer Segmentation` • `Dashboard Design` • `Statistical Thinking`
+
 🔗 Repository: [https://github.com/CaiptanSatiya/Customer-Shopping-Behavior-Analysis]
 
 ---
