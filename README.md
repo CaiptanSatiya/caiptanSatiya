@@ -129,7 +129,6 @@ Analyze vendor sales, inventory, and profit data to identify top and low-perform
 
 🔗 *Repository:* [https://github.com/CaiptanSatiya/Vendor-Sales-Profitability-Analysis/tree/main]
 
-
 ---
 
 # Project 3: Attendance Data Analysis
@@ -194,6 +193,7 @@ This project focuses on analyzing HR attendance data and building an interactive
 📎 *Cetificate* [https://drive.google.com/file/d/1TD8RyX5J5a3z2wICp9zRS7vFuq9JSFRC/view?usp=sharing]
 
 ---
+
 ### 🟦 Tata Group – Data Visualization Virtual Experience (Forage)
 
 <p>
