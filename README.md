@@ -12,7 +12,7 @@
 
 ## 🌟 About Me 🕵🏻
 
-I am an **aspiring Data Analyst** currently pursuing **Master of Computer Applications (MCA)** from **Quantum University**. I am deeply passionate about working with data — from **cleaning and transforming raw datasets** to **analyzing trends, building dashboards, and presenting insights** that support better decision-making.
+I am a **Data Analyst in training**, currently pursuing a Master of Computer Applications (MCA) from Quantum University, with a strong interest in data analysis. I am deeply passionate about working with data — from **cleaning and transforming raw datasets** to **analyzing trends, building dashboards, and presenting insights** that support better decision-making.
 
 I enjoy working on **real-world datasets**, participating in **virtual internships**, and continuously improving my analytical thinking through hands-on projects and certifications.
 
