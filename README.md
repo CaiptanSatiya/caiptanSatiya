@@ -132,7 +132,7 @@ Analyze vendor sales, inventory, and profit data to identify top and low-perform
 
 ---
 
-### 📌 Project 3: HR / Salary Data Analysis
+# 📌 Project 3: HR / Salary Data Analysis
 
 **Objective:**
 Analyze salary data to uncover pay trends across roles, locations, and experience levels.
