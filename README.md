@@ -166,6 +166,40 @@ Total Present Days
 
 ---
 
+# 📌 Project 4: OYO Business Performance Analysis
+
+## Objective:
+This project focuses on analyzing OYO hotel performance data to evaluate revenue efficiency, occupancy trends, and pricing performance through an interactive Power BI dashboard. The solution is designed to support business and stakeholder decision-making using a structured BI approach.
+
+## Dataset Overview
+
+(OYO hospitality performance dataset)
+The dataset includes key operational and revenue metrics captured across multiple properties, cities, and time periods, such as:
+
+* Revenue
+* RevPAR (Revenue per Available Room)
+* ADR (Average Daily Rate)
+* Occupancy %
+* Realisation %
+* DSRN (Daily Sellable Room Nights)
+* Cancellation %
+* Average Customer Rating
+
+## Key Highlights:
+
+* Transformed and analyzed hospitality datasets using Power BI
+* Evaluated revenue, occupancy, and pricing efficiency trends
+* Created DAX measures for KPI calculations and comparisons
+* Designed interactive dashboards with city-wise and property-level drilldowns
+* Enabled stakeholder reviews through insight-driven visualizations
+
+## Skills Applied:
+Power BI · Power Query · DAX · Data Visualization · Business Analytics · Hospitality Analytics
+
+🔗 Repository: [https://github.com/CaiptanSatiya/OYO-Hotel-Booking-Revenue-Analysis/blob/main/README.md]
+
+---
+
 ## 🏢 Virtual Experience & Extracurricular Activities
 
 ### 🟪 Quantium – Data Analytics Virtual Experience (Forage)
