@@ -1,4 +1,4 @@
-# <p align="center">📊📈 Caiptan Satiya | Aspiring Data Analyst</p>
+# <p align="center">📊📈 Caiptan Satiya | Data Analyst</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Turning%20Data%20into%20Insights&fontSize=48&animation=fadeIn&fontAlignY=35" width="100%" />
@@ -8,15 +8,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Data+Analysis+%7C+Business+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Learning+Every+Day+%7C+Building+Impactful+Projects" />
 </p>
 
----
-
 ## 🌟 About Me 🕵🏻
 
-I am a **Data Analyst in training**, currently pursuing a Master of Computer Applications (MCA) from Quantum University, with a strong interest in data analysis. I am deeply passionate about working with data — from **cleaning and transforming raw datasets** to **analyzing trends, building dashboards, and presenting insights** that support better decision-making.
+### 👋 Hi, I’m Caiptan Satiya
 
-I enjoy working on **real-world datasets**, participating in **virtual internships**, and continuously improving my analytical thinking through hands-on projects and certifications.
+I am a **Data Analyst** and **MCA student at Quantum University**, with hands-on experience in **data cleaning, transformation, exploratory data analysis, dashboarding, and insight generation**.
 
----
+I work on **real-world datasets** through projects and virtual internships, focusing on building **data-driven dashboards** and translating data into **actionable business insights**.
+
+🔍 Interests: Data Analysis, Business Intelligence, Analytics Automation  
+📊 Tools: Python, SQL, Power BI, Excel  
+
 
 ## 🎓 Education
 
@@ -28,7 +30,6 @@ I enjoy working on **real-world datasets**, participating in **virtual internshi
     **Banasthali Vidyapith** | 2022 – 2025
     <br>**Focus Areas:** VB.Net, SQL, Python, JAVA, CCNA, Excel 
 
----
 
 ## 🛠️ Skills Snapshot (Core Strengths)
 
@@ -64,7 +65,6 @@ I enjoy working on **real-world datasets**, participating in **virtual internshi
 </p>
 
 
----
 
 ## 📜 Featured Data Analysis Projects
 
@@ -97,9 +97,9 @@ Develop an interactive Power BI dashboard to track sales, revenue, and profit in
 - Excel / CSV data handling  
 🔗 *Repository:* [https://github.com/CaiptanSatiya/Sales-Performance-Profit-Analysis-Dashboard]
 
----
 
 # Project 2: Vendor Sales & Profitability Analysis
+
 
 ## Objective
 Analyze vendor sales, inventory, and profit data to identify top and low-performing vendors, calculate KPIs, and provide actionable insights through Python analysis and a Power BI dashboard.
@@ -129,21 +129,22 @@ Analyze vendor sales, inventory, and profit data to identify top and low-perform
 
 🔗 *Repository:* [https://github.com/CaiptanSatiya/Vendor-Sales-Profitability-Analysis/tree/main]
 
----
 
 # Project 3: Attendance Data Analysis
 
-**Objective:**
+
+## Objective
 This project focuses on analyzing HR attendance data and building an interactive Power BI dashboard aligned with real business and stakeholder requirements. The workflow follows an end-to-end BI lifecycle, from requirement gathering to final stakeholder review.
 
-**Key Highlights:**
+
+## Key Highlights
 
 * Processed structured HR attendance datasets
 * Analyzed employee presence and absenteeism patterns
 * Built DAX measures for attendance calculations
   * Designed HR-focused dashboards for monitoring workforce behavior
 
-**Skills Applied:**
+## Skills Applied
 `Python` · `Excel` · `Data Visualization` · `Statistical Thinking`. `HR Analytics`
 
 ## Outcome / Impact
@@ -162,7 +163,6 @@ This project focuses on analyzing HR attendance data and building an interactive
 
 🔗 *Repository:*[https://github.com/CaiptanSatiya/Employee-Attendance-Workforce-Analytics]
 
----
 
 ## 🏢 Virtual Experience & Extracurricular Activities
 
@@ -192,7 +192,6 @@ This project focuses on analyzing HR attendance data and building an interactive
 
 📎 *Cetificate* [https://drive.google.com/file/d/1TD8RyX5J5a3z2wICp9zRS7vFuq9JSFRC/view?usp=sharing]
 
----
 
 ### 🟦 Tata Group – Data Visualization Virtual Experience (Forage)
 
@@ -202,7 +201,7 @@ This project focuses on analyzing HR attendance data and building an interactive
 </p>
 
 **Role:** Data Visualization Virtual Experience  
-**Employment Type:** Virtual Experience  
+**Employment Type:** Virtual Experience  '
 **Duration:** January 2026  
 
 **Work Done:**
@@ -221,24 +220,24 @@ This project focuses on analyzing HR attendance data and building an interactive
 
 📎 *Cetificate* [https://drive.google.com/file/d/1YSi8QueCarPznGkF_QLonqRvm5b5IYsO/view?usp=drive_link]
 
----
-
 ### 🟦 Tata – GenAI Powered Data Analytics Job Simulation (Forage)
 <p> <img src="https://img.shields.io/badge/Tata-GenAI%20Data%20Analytics-005BAC?style=flat-square" /> 
   <img src="https://img.shields.io/badge/Forage-Virtual%20Experience-0A66C2?style=flat-square" /> 
 </p>
 
-**Role:** GenAI Data Analytics Virtual Experience
-**Employment Type:** Virtual Experience
+**Role:** GenAI Data Analytics Virtual Experience<br>
+**Employment Type:** Virtual Experience<br>
 **Duration:** February 2026
+
+
 
 **Work Done:**
 
-• Conducted exploratory data analysis (EDA) to identify risk patterns and customer behavior.
-• Built and interpreted AI-driven delinquency prediction models for collections strategy.
-• Performed risk profiling and customer segmentation to identify at-risk customer groups.
-• Translated analytical outputs into business-ready insights for senior stakeholders.
-• Designed a responsible, explainable AI-powered collections system aligned with ethical AI principles.
+• Conducted exploratory data analysis (EDA) to identify risk patterns and customer behavir.  
+• Built and interpreted AI-driven delinquency prediction models for collections strategy.  
+• Performed risk profiling and customer segmentation to identify at-risk customer groups.  
+• Translated analytical outputs into business-ready insights for senior stakeholders.  
+• Designed a responsible, explainable AI-powered collections system aligned with ethical AI principles.  
 • Delivered data storytelling and executive-level recommendations to support decision-making.
 
 **Skills Gained:**
@@ -250,7 +249,7 @@ This project focuses on analyzing HR attendance data and building an interactive
 
 📎 Certificate [https://drive.google.com/file/d/1DluKDQqldJS8WfQOQunXGiH8EGczfj3G/view?usp=drive_link]
 
----
+
 
 ## 📜 Certifications
 
@@ -260,7 +259,7 @@ This project focuses on analyzing HR attendance data and building an interactive
 * 🏅 Analyzing Data with Powerbi -**Analytics Vidhya** [https://drive.google.com/file/d/1C6vano-vGBPye4zHLml0nY3Oxjdfnirw/view?usp=drive_link]
 * 🏅 Intro to Data Analytics - **SimpliLearn** [https://drive.google.com/file/d/17xO8uXYbAlRHgz6VTmtp5vWmBv7Gt5LL/view?usp=drive_link]
 
----
+
 
 ## 🤝 Soft Skills
 
@@ -269,7 +268,7 @@ This project focuses on analyzing HR attendance data and building an interactive
 * 🔍 Attention to Data Accuracy
 * 🤝 Team Collaboration
 
----
+
 
 ## 📫 Connect With Me
 
