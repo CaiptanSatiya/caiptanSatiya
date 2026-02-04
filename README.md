@@ -194,13 +194,66 @@ The dataset includes key operational and revenue metrics captured across multipl
 * Enabled stakeholder reviews through insight-driven visualizations
 
 ## Skills Applied:
-Power BI · Power Query · DAX · Data Visualization · Business Analytics · Hospitality Analytics
+`Power BI` · `Power Query` · `DAX` · `Data Visualization` · `Business Analytics` · `Hospitality Analytics`
 
 🔗 Repository: [https://github.com/CaiptanSatiya/OYO-Hotel-Booking-Revenue-Analysis/blob/main/README.md]
 
 ---
 
-https://github.com/CaiptanSatiya/Customer-Shopping-Behavior-Analysis
+# 📌 Project:4 Customer Behavior Analysis Dashboard
+
+## Objective:
+This project focuses on analyzing customer purchasing behavior and preferences to uncover insights related to product performance, customer demographics, and subscription adoption. An interactive dashboard was developed to support data-driven decisions across marketing, sales, and customer retention strategies.
+
+## 📊 Key Metrics Overview
+
+* Total Customers: 3,900
+* Average Purchase Amount: $59.76
+* Average Review Rating: 3.75
+* Subscription Distribution:
+* Subscribed Customers: 27%
+* Non-Subscribed Customers: 73%
+
+## 🧭 Analysis Highlights
+🔹 Product Category Performance
+
+* Clothing emerges as the highest-performing category in both revenue and sales volume
+* Accessories show moderate performance with potential for cross-selling
+* Footwear and Outerwear contribute lower revenue, indicating scope for targeted promotions
+
+🔹 Customer Demographics & Age Groups
+
+* Young Adults represent the most valuable segment in terms of revenue and transaction volume
+* Middle-aged customers display consistent purchasing behavior
+* Senior and adult segments contribute steadily, supporting diversified demand
+
+🔹 Subscription & Retention Insights
+
+* Majority of customers are non-subscribers, highlighting a gap in subscription adoption
+* Subscription-based incentives could improve repeat purchases and long-term customer value
+
+🔹 Behavioral & Operational Filters
+
+* Dashboard enables analysis by:
+* Gender
+* Subscription status
+* Product category
+* Shipping type
+* Supports granular customer segmentation and targeted analysis
+
+## 🧠 Business Value Delivered
+
+* Enabled identification of high-value customer segments
+* Provided insights to optimize product mix and inventory planning
+* Highlighted opportunities to improve subscription conversion and retention
+* Delivered an intuitive dashboard for ongoing business monitoring
+
+## 🛠️ Tools & Skills Used
+
+`Power BI` • `Data Visualization` • `Business Analytics` • `Customer Segmentation` • `Dashboard Design` • `Statistical Thinking`
+🔗 Repository: [https://github.com/CaiptanSatiya/Customer-Shopping-Behavior-Analysis]
+
+---
 
 ## 🏢 Virtual Experience & Extracurricular Activities
 
