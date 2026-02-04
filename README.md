@@ -146,7 +146,7 @@ Analyze salary data to uncover compensation trends across roles, locations, and 
 **Skills Applied:**
 `Python` · `Excel` · `Data Visualization` · `Statistical Thinking`. `HR Analytics`
 
-🔗 *Repository:* [Link Here]
+🔗 *Repository:* [https://github.com/CaiptanSatiya/HR-Salary-Data-Analysis]
 
 ---
 
