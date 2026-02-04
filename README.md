@@ -139,9 +139,10 @@ Analyze employee attendance data to identify presence patterns, absenteeism tren
 
 **Key Highlights:**
 
-* Processed structured datasets using Python & Excel
-* Visualized salary distribution and role-based insights
-* Created clean visual reports for decision support
+* Processed structured HR attendance datasets
+* Analyzed employee presence and absenteeism patterns
+* Built DAX measures for attendance calculations
+ * Designed HR-focused dashboards for monitoring workforce behavior
 
 **Skills Applied:**
 `Python` · `Excel` · `Data Visualization` · `Statistical Thinking`. `HR Analytics`
