@@ -196,7 +196,7 @@ The dataset includes key operational and revenue metrics captured across multipl
 ## Skills Applied:
 `Power BI` · `Power Query` · `DAX` · `Data Visualization` · `Business Analytics` · `Hospitality Analytics`
 
-🔗 Repository: [https://github.com/CaiptanSatiya/OYO-Hotel-Booking-Revenue-Analysis/blob/main/README.md]
+🔗 Repository: [https://github.com/CaiptanSatiya/OYO-Hotel-Booking-Revenue-Analysis]
 
 ---
 
