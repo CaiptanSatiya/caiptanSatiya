@@ -135,7 +135,7 @@ Analyze vendor sales, inventory, and profit data to identify top and low-perform
 # 📌 Project 3: Attendance Data Analysis
 
 **Objective:**
-Analyze employee attendance data to identify presence patterns, absenteeism trends, and workforce behavior to support HR decision-making.
+This project focuses on analyzing HR attendance data and building an interactive Power BI dashboard aligned with real business and stakeholder requirements. The workflow follows an end-to-end BI lifecycle, from requirement gathering to final stakeholder review.
 
 **Key Highlights:**
 
