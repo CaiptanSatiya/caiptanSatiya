@@ -162,6 +162,20 @@ Total Present Days
 **Skills Applied:**
 `Python` · `Excel` · `Data Visualization` · `Statistical Thinking`. `HR Analytics`
 
+## Outcome / Impact
+
+* Enabled HR teams to monitor workforce attendance trends effectively
+* Identified absenteeism patterns and frequent leave behaviors
+* Supported data-driven HR decisions for workforce planning
+* Improved visibility into employee availability and attendance performance
+
+## Tools & Technologies
+
+* Power BI Desktop
+* DAX (Data Analysis Expressions)
+* Excel (data cleaning & preparation)
+* Power Query (data transformation)
+
 🔗 *Repository:*[https://github.com/CaiptanSatiya/Employee-Attendance-Workforce-Analytics]
 
 ---
@@ -195,6 +209,20 @@ The dataset includes key operational and revenue metrics captured across multipl
 
 ## Skills Applied:
 `Power BI` · `Power Query` · `DAX` · `Data Visualization` · `Business Analytics` · `Hospitality Analytics`
+
+## Outcome / Impact
+
+* Provided a centralized performance view for hospitality stakeholders
+* Identified high-performing cities and properties driving revenue
+* Highlighted occupancy and pricing gaps impacting RevPAR
+* Supported data-driven decisions for pricing, promotions, and capacity planning
+
+## Tools & Technologies
+
+* Power BI Desktop
+* DAX (Data Analysis Expressions)
+* Power Query (data cleaning & transformation)
+* Excel / CSV data handling
 
 🔗 Repository: [https://github.com/CaiptanSatiya/OYO-Hotel-Booking-Revenue-Analysis]
 
@@ -251,6 +279,20 @@ This project focuses on analyzing customer purchasing behavior and preferences t
 ## 🛠️ Tools & Skills Used
 
 `Power BI` • `Data Visualization` • `Business Analytics` • `Customer Segmentation` • `Dashboard Design` • `Statistical Thinking`
+
+## Outcome / Impact
+
+* Identified high-value customer segments for targeted marketing strategies
+* Highlighted opportunities to improve subscription adoption and customer retention
+* Supported product mix optimization and demand-based inventory planning
+* Enabled continuous monitoring of customer behavior and purchasing trends
+
+## Tools & Technologies
+
+* Power BI Desktop
+* DAX (Data Analysis Expressions
+* Excel / CSV data handling
+* Data Visualization & Dashboard Design
 
 🔗 Repository: [https://github.com/CaiptanSatiya/Customer-Shopping-Behavior-Analysis]
 
