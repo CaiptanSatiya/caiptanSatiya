@@ -137,12 +137,27 @@ Analyze vendor sales, inventory, and profit data to identify top and low-perform
 **Objective:**
 This project focuses on analyzing HR attendance data and building an interactive Power BI dashboard aligned with real business and stakeholder requirements. The workflow follows an end-to-end BI lifecycle, from requirement gathering to final stakeholder review.
 
+**Dataset Overview **
+
+(Employee attendance )
+Daily status columns with values like:
+* P (Present)
+* WFH (Work From Home)
+* PL (Paid Leave)
+* SL (Sick Leave)
+* WO (Weekly Off)
+* HO (Holiday)
+* LWP (Leave Without Pay)
+* BL / FFL / BRL / ML (Special leave types)
+* Pre-calculated fields:
+Total Present Days
+
 **Key Highlights:**
 
 * Processed structured HR attendance datasets
 * Analyzed employee presence and absenteeism patterns
 * Built DAX measures for attendance calculations
- * Designed HR-focused dashboards for monitoring workforce behavior
+  * Designed HR-focused dashboards for monitoring workforce behavior
 
 **Skills Applied:**
 `Python` · `Excel` · `Data Visualization` · `Statistical Thinking`. `HR Analytics`
