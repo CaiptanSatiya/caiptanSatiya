@@ -207,6 +207,34 @@ Analyze salary data to uncover pay trends across roles, locations, and experienc
 📎 *Cetificate* [https://drive.google.com/file/d/1YSi8QueCarPznGkF_QLonqRvm5b5IYsO/view?usp=drive_link]
 
 ---
+### 🟦 Tata – GenAI Powered Data Analytics Job Simulation (Forage)
+<p> <img src="https://img.shields.io/badge/Tata-GenAI%20Data%20Analytics-005BAC?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Forage-Virtual%20Experience-0A66C2?style=flat-square" /> 
+</p>
+
+**Role:** GenAI Data Analytics Virtual Experience
+**Employment Type:** Virtual Experience
+**Duration:** Month–Year 
+
+**Work Done:**
+
+• Conducted exploratory data analysis (EDA) to identify risk patterns and customer behavior.
+• Built and interpreted AI-driven delinquency prediction models for collections strategy.
+• Performed risk profiling and customer segmentation to identify at-risk customer groups.
+• Translated analytical outputs into business-ready insights for senior stakeholders.
+• Designed a responsible, explainable AI-powered collections system aligned with ethical AI principles.
+• Delivered data storytelling and executive-level recommendations to support decision-making.
+
+**Skills Gained:**
+
+`GenAI in Analytics` · `Exploratory Data Analysis (EDA)` · `Predictive Modeling` .
+`Risk Profiling` · `AI-Driven Decision Making` · `Business Analytics` .
+`Data Storytelling` · `Stakeholder Communication`. 
+`Responsible & Explainable AI` · `Python` · `Statistical Analysis`
+
+📎 Certificate [https://drive.google.com/drive/folders/1DIsnBQIHzG16I2glnR0WNUOae3QjThkp]
+
+---
 
 ## 📜 Certifications
 
